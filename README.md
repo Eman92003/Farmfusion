@@ -1,5 +1,4 @@
 # Farm Fusion: Crop Recommendation System
-[Download the PDF]("C:/Users/ahmed/Downloads/Farm Fusion.pdf")
 
 *Farm Fusion* is an intelligent crop recommendation system designed to help farmers make better planting decisions based on key environmental and soil factors. The system takes input such as nitrogen, phosphorus, potassium levels, and environmental factors (temperature, humidity, pH, and rainfall) to recommend the most suitable crops for planting. The model was trained using a dataset of 2200 entries with information on various crops.
 
